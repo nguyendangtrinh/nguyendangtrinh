@@ -34,10 +34,15 @@ I'm currently a **Software Engineer** at the **TestCloud team at Katalon**. I wo
 
 ## Latest Projects
 - [Katalon TestCloud Execution Env](https://github.com/katalon-studio/testcloud-execution-env)
+- [Katalon TestOps](https://github.com/katalon-studio/katalon-testops-private)
 - [Katalon TestCloud Agent](https://github.com/katalon-studio/katalon-testcloud-agent-private)
-- ...
-  
+- [TestCloud Metering](https://github.com/katalon-studio/testcloud-metering)
+- [TestCloud Provisioning](https://github.com/katalon-studio/testcloud-provisioning)
+- [TestCloud Auth](https://github.com/katalon-studio/testcloud-auth)
+- [TestCloud Agent](https://github.com/katalon-studio/testcloud-agent)
+- [TestCloud Tunnel](https://github.com/katalon-studio/testcloud-tunnel)
+- [Katalon Execution](https://github.com/katalon-studio/katalon-execution)
+
 ## Let's Connect!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dangtrinh3006)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/dangtrinh3006)
-

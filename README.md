@@ -9,7 +9,6 @@ I'm currently a **Software Engineer** at the **TestCloud team at Katalon**. I wo
 - 🌱 I’m currently learning **advanced cloud infrastructure, microservices architecture, and DevSecOps**.
 - 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Email-trinh.dnguyen@katalon.com-informational?style=flat-square&logo=gmail)](mailto:trinh.dnguyen@katalon.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-nguyendangtrinh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dangtrinh3006)
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I'm powered by {Secret_Key}, but shhh... it's top secret! 🤫
 
 ## Skills & Tools
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -20,6 +19,7 @@ I'm currently a **Software Engineer** at the **TestCloud team at Katalon**. I wo
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
@@ -27,22 +27,24 @@ I'm currently a **Software Engineer** at the **TestCloud team at Katalon**. I wo
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyendangtrinh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendangtrinh&layout=compact&theme=radical)
 
 ## Latest Projects
+- [TestCloud Agent](https://github.com/katalon-studio/katalon-testcloud-agent-private)
 - [TestCloud Execution Env](https://github.com/katalon-studio/testcloud-execution-env)
-- [TestCloud Metering](https://github.com/katalon-studio/testcloud-metering)
 - [TestCloud Provisioning](https://github.com/katalon-studio/testcloud-provisioning)
-- [TestCloud Auth](https://github.com/katalon-studio/testcloud-auth)
-- [TestCloud Agent](https://github.com/katalon-studio/testcloud-agent)
-- [TestCloud Tunnel](https://github.com/katalon-studio/testcloud-tunnel)
 - [TestCloud Grid](https://github.com/katalon-studio/testcloud-grid)
-- [Katalon TestOps](https://github.com/katalon-studio/katalon-testops-private)
-- [Katalon TestCloud Agent](https://github.com/katalon-studio/katalon-testcloud-agent-private)
+- [TestCloud Main](https://github.com/katalon-studio/katalon-testcloud)
+- [TestCloud Web App](https://github.com/katalon-studio/testcloud)
+- [TestCloud Metering](https://github.com/katalon-studio/testcloud-metering)
+- [TestCloud Auth](https://github.com/katalon-studio/testcloud-auth)
+- [TestCloud Tunnel](https://github.com/katalon-studio/testcloud-tunnel)
 - [Katalon Execution](https://github.com/katalon-studio/katalon-execution)
+- [Katalon TestOps](https://github.com/katalon-studio/katalon-testops-private)
 
 ## Let's Connect!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dangtrinh3006)
